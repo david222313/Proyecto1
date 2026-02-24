@@ -21,7 +21,4 @@ public class Evento {
     private String patrocinador;
     private Map<Zona, Integer> boletasPorZona;
 
-    public Evento(String concierto, LocalDate fecha, LocalTime of, String estadio, String patro, int i, int i1, int i2) {
-    }
-
 }
